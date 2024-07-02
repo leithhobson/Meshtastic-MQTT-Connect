@@ -44,7 +44,7 @@ display_dm_emoji = True
 display_lookup_button = False
 display_private_dms = False
 
-record_locations = False
+record_locations = True
 
 ### tcl upstream bug warning
 tcl = tk.Tcl()
